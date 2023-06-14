@@ -1,3 +1,3 @@
 # twich-dapp
 
-Web 3 Version of Twich
+the Web 3 Version of Twitch
